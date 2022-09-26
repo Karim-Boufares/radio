@@ -1,0 +1,61 @@
+#div1{
+    width: 400px;
+    background-color: rgb(192, 43, 43);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+header{
+    text-align: center;
+    color: white;
+    height: 300px;
+}
+header img{
+    height: 150px;
+    margin-top: 20px;
+}
+header h2{
+    margin: 20px 0px;
+}
+#div2{
+    background-color: aliceblue;
+}
+
+#btn1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#btn1 img{
+    height: 50px;
+    width: 50px;
+    margin: 0px 20px;
+}
+input{
+    width: 100%;
+}
+#art2{
+    text-align: center;
+}
+#art3{
+    text-align: center;
+    margin-top: 25px;
+}
+#art3 button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0px 10px;
+}
+#art3 #col1{
+    background-color: rgb(73, 121, 163);
+}
+#art3 #col2{
+    background-color: rgb(73, 163, 125);
+}
+#art3 #col3{
+    background-color: rgb(121, 163, 73);
+}
+#art3 #col4{
+    background-color: rgb(163, 106, 73);
+}
